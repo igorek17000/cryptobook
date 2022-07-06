@@ -43,9 +43,9 @@
 
 ### :cherries:合约示例
 
-|       现货产品      |   Binance   |    OKX   |
-| :-------------: | :---------: | :------: |
-|     BTC-USDT    |   BTCUSDT   | BTC-USDT |
+|            现货产品 |   Binance   |    OKX   |
+| --------------: | :---------: | :------: |
+|        BTC-USDT |   BTCUSDT   | BTC-USDT |
 | 高达4倍做多 BTC 杠杆代币 |  BTCUPUSDT  |          |
 | 高达4倍做空 BTC 杠杆代币 | BTCDOWNUSDT |          |
 
